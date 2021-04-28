@@ -149,6 +149,7 @@ Signed:
 * Johannes Rudolph
 * Jose Raya
 * Josef Vlach
+* Josh Marcus
 * Joshua Conner
 * Julian Peeters
 * Justin Pihony
